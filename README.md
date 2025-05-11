@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @fasnamfd
-- 👀 I’m interested in .. program learning.
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... programming
-- 📫 How to reach me ...
+# 👋 Hi, I’m Fasna
 
-<!---
-fasnamfd/fasnamfd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about learning and exploring programming.
+- 🌱 I’m currently working as a Java Full Stack Development Trainee at Quest Innovation Solutions.
+- 💻 I have experience with Java , Spring Boot, Hibernate, HTML, CSS,JavaScript, Angular and Sql.
+- 💞️ I’m looking to collaborate on full-stack development projects.
+- 📫 How to reach me: fasnayousaf2020@gmail.com
+
+
+
